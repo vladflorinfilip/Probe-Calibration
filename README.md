@@ -9,3 +9,6 @@ The aim was to adjust calibration maps by performing transformations for pitch, 
 This was shown to reduce errors and a process was streamlined to minimise the impact of manufacturing defects.
 The code investigates data for several probe design to draw conclusions on the calibration data sharing to streamline calibration time.
 A Monte Carlo simulation is performed using a Gausian distribution for a sensitivity analysis and an uncertainty evaluation. 
+
+# Acknowledgments 
+This code was used by Vlad Filip while working at the Whittle Laboratory at the University of Cambridge under the supervision of Dr Christopher Clark.
